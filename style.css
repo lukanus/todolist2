@@ -1,0 +1,23 @@
+body
+{
+    background-color: gray;
+}
+#container
+{
+    width: 900px;  
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+   
+}
+#todo
+{
+    font-size: 48px;
+    list-style-type: none;
+    
+    
+}
+li
+{
+    color:white;
+}
